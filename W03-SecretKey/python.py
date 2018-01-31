@@ -21,10 +21,8 @@ a
 long 
 comment
 '''
-b = l.chunkText
+print l.chunkText("this is a long string!? What is going OjjiN?")
 
-b("hi")
+#b("hi")
 
-
-
-print map(b, [5,8, 10])
+#print map(b, [5,8, 10])
